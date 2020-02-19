@@ -163,3 +163,89 @@ text-decoration: underline;
   text-align: justify;
   line-height: 28px;
 }
+/*FINE FOOTER*/
+
+/* PRIMO BLOCCO */
+
+.primoblocco{
+  height: 160px;
+  background-color: #F9F9F9;
+  position: relative;
+}
+#primop{
+  text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 28px;
+}
+#secondop{
+  text-align: center;
+    position:absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: grey;
+    font-size: 16px;
+}
+/* FINE PRIMO BLOCCO */
+
+/*SECONDO BLOCCO */
+
+.secondoblocco{
+  background-color: white;
+  height: 500px;
+
+}
+.secondoblocco img{
+  width:30%;
+  height: auto;
+}
+#resize{
+  width: 50%;
+  height: auto;
+  margin-bottom: 5px;
+
+}
+
+#resize2{
+  width: 35%;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+.primo{
+float:left;
+width: 30%;
+margin-left: 40px;
+margin-top: 30px;
+text-align: center;
+}
+
+.primo h4{
+color: #7BBC00;
+font-size: 22px;
+margin-top: 35px;
+}
+
+.primo p{
+  color: grey;
+  margin-top: 30px;
+}
+
+hr{
+  color: rgba(69,69,69,0.2);
+  width: 98%;
+  margin: auto;
+}
+
+.secondo1{
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  color: grey;
+  line-height: 24px;
+  text-align: center;
+  margin-top: 30px;
+}
