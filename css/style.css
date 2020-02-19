@@ -106,3 +106,60 @@ header h1{
   background-color: #7FB802;
   color: white;
 }
+/* FINE HEADER */
+
+/*INIZIO FOOTER*/
+
+footer{
+  /* DEBUG: Inizio*/
+  margin-top: 20px;
+  /* DEBUG: FINE */
+  height: 360px;
+  background-color: #0E325A;
+}
+
+footer h5{
+  color: white;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  padding-top: 40px;
+}
+
+footer ul{
+  float: left;
+  width: 50%;
+}
+
+footer ul li{
+list-style-type: none;
+display: block;
+padding: 10px 0;
+}
+
+footer ul li a{
+  text-decoration: none;
+  color: lightgrey;
+  margin-left: 100px;
+}
+
+footer ul li a:hover{
+text-decoration: underline;
+}
+
+.footerdiv{
+    float: left;
+    width: 50%;
+}
+
+.footerdiv h4{
+  color: white;
+  padding: 10px 0;
+  text-align: justify;
+}
+
+.footerdiv p{
+  color: lightgrey;
+  padding: 10px 0;
+  text-align: justify;
+  line-height: 28px;
+}
