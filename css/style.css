@@ -249,3 +249,48 @@ hr{
   text-align: center;
   margin-top: 30px;
 }
+/* FINE SECONDO BLOCCO */
+
+/* INIZIO TERZO BLOCCO */
+
+.terzo{
+  background-color: white;
+  height: 520px;
+  margin-right: 80px;
+}
+
+img{
+  width: 60%;
+  height: auto;
+}
+
+.terzo1{
+  float:left;
+  width: 50%;
+  margin-left: 40px;
+  text-align: center;
+  margin-top: 50px;
+  margin-right: 40px;
+}
+
+.terzo2{
+float:left;
+text-align: justify;
+line-height: 24px;
+}
+
+.terzo2 h3{
+  margin-top: 150px;
+}
+
+.terzo2 p{
+  color: grey;
+  margin-top: 15px;
+}
+
+.terzo2 a{
+  text-decoration: underline;
+  color: lightblue;
+  margin-top: 10px;
+  display: inline-block;
+}
